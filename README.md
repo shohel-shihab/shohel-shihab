@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | React.js • Next.js • Node.js • Express.js • TypeScript • JavaScript | Problem Solver | Building Scalable Web Applications | Open to Remote Opportunities </h3>
 
 
-<a href="https://www.youtube.com/@shohelranashihab" target="_blank"><img src="./images/shohel-rana-shihab" alt="shohel rana shihab"/></a>
+<a href="https://www.youtube.com/@shohelranashihab" target="_blank"><img src="shohel-rana-shihab" alt="shohel rana shihab"/></a>
 
 
 ## 🚀 About Me
