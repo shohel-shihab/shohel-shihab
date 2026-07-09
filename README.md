@@ -34,8 +34,3 @@ I'm always open to discussing Frontend & Full-Stack Developer opportunities, col
 📧 Email: shihabcse21@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/rshihab21
 
-
-
-## ⭐ Support My Work
-
-If my open-source or content work has helped you, consider giving a ⭐ to my projects or supporting me through [GitHub Sponsors](https://github.com/sponsors/atapas).
